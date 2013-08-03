@@ -46,11 +46,6 @@ PRODUCT_COPY_FILES := \
     vendor/asus/flo/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/asus/flo/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/asus/flo/proprietary/etc/DxHDCP.cfg:system/etc/DxHDCP.cfg \
-    vendor/asus/flo/proprietary/etc/firmware/tzapps.b00:system/etc/firmware/tzapps.b00 \
-    vendor/asus/flo/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
-    vendor/asus/flo/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
-    vendor/asus/flo/proprietary/etc/firmware/tzapps.b03:system/etc/firmware/tzapps.b03 \
-    vendor/asus/flo/proprietary/etc/firmware/tzapps.mdt:system/etc/firmware/tzapps.mdt \
     vendor/asus/flo/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
     vendor/asus/flo/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
     vendor/asus/flo/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
@@ -166,6 +161,11 @@ PRODUCT_COPY_FILES := \
     vendor/asus/flo/proprietary/vendor/firmware/q6.b05:system/vendor/firmware/q6.b05 \
     vendor/asus/flo/proprietary/vendor/firmware/q6.b06:system/vendor/firmware/q6.b06 \
     vendor/asus/flo/proprietary/vendor/firmware/q6.mdt:system/vendor/firmware/q6.mdt \
+    vendor/asus/flo/proprietary/vendor/firmware/tzapps.b00:system/vendor/firmware/tzapps.b00 \
+    vendor/asus/flo/proprietary/vendor/firmware/tzapps.b01:system/vendor/firmware/tzapps.b01 \
+    vendor/asus/flo/proprietary/vendor/firmware/tzapps.b02:system/vendor/firmware/tzapps.b02 \
+    vendor/asus/flo/proprietary/vendor/firmware/tzapps.b03:system/vendor/firmware/tzapps.b03 \
+    vendor/asus/flo/proprietary/vendor/firmware/tzapps.mdt:system/vendor/firmware/tzapps.mdt \
     vendor/asus/flo/proprietary/vendor/firmware/wcnss.b00:system/vendor/firmware/wcnss.b00 \
     vendor/asus/flo/proprietary/vendor/firmware/wcnss.b01:system/vendor/firmware/wcnss.b01 \
     vendor/asus/flo/proprietary/vendor/firmware/wcnss.b02:system/vendor/firmware/wcnss.b02 \
